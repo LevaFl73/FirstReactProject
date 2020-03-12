@@ -1,0 +1,21 @@
+.DialogsAndMessages{
+    display: grid;
+    grid-template-columns: 3fr 5fr;
+    padding:10px;
+}
+.dialog{
+    padding: 10px;
+    margin: 2px;
+    margin-right:4px;
+    outline: #ffdf04 solid 2px;
+}
+.message{
+    margin:2px;
+    padding: 10px;
+    outline: #ffdf04 solid 2px;
+}
+a{
+    color:white;
+    text-decoration: none;
+    outline: none;
+}

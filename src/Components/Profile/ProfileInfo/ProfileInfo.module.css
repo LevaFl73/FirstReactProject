@@ -1,0 +1,22 @@
+.profileInfo .topImg{
+    width:100%;
+    height:20em;
+}
+.ava img{
+    height:150px;
+    width:150px;
+}
+.ava {
+    height:200px;
+    width:220px;
+    background-color: black;
+}
+.osebe{
+    height:100px;
+    width:100px;
+    background-color: darkolivegreen;
+}
+.descriptionBlock{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
